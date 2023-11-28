@@ -1,0 +1,18 @@
+﻿  Zadanie.cpp
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(14,62): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(14,62): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(15,52): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int **" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(15,52): warning C4302: "typ rzutowania": obcięcie z "int **" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(16,13): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(16,13): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(17,13): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(17,13): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(18,13): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(18,13): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(19,13): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(19,13): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(20,13): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(20,13): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(26,17): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\Zadanie\Zadanie.cpp(26,17): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  Zadanie.vcxproj -> C:\Users\Programista\Desktop\JKiecok2CT\28.11.23\Zadanie\x64\Debug\Zadanie.exe
